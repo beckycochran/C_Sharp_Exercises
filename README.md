@@ -1,1 +1,1 @@
-# C_Sharp_Exercies
+# C_Sharp_Exercises

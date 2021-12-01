@@ -1,0 +1,15 @@
+/home/bex/C#/C_Sharp_Exercises/bin/Debug/net6.0/C_Sharp_Exercises
+/home/bex/C#/C_Sharp_Exercises/bin/Debug/net6.0/C_Sharp_Exercises.deps.json
+/home/bex/C#/C_Sharp_Exercises/bin/Debug/net6.0/C_Sharp_Exercises.runtimeconfig.json
+/home/bex/C#/C_Sharp_Exercises/bin/Debug/net6.0/C_Sharp_Exercises.dll
+/home/bex/C#/C_Sharp_Exercises/bin/Debug/net6.0/ref/C_Sharp_Exercises.dll
+/home/bex/C#/C_Sharp_Exercises/bin/Debug/net6.0/C_Sharp_Exercises.pdb
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/C_Sharp_Exercises.csproj.AssemblyReference.cache
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/C_Sharp_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/C_Sharp_Exercises.AssemblyInfoInputs.cache
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/C_Sharp_Exercises.AssemblyInfo.cs
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/C_Sharp_Exercises.csproj.CoreCompileInputs.cache
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/C_Sharp_Exercises.dll
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/ref/C_Sharp_Exercises.dll
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/C_Sharp_Exercises.pdb
+/home/bex/C#/C_Sharp_Exercises/obj/Debug/net6.0/C_Sharp_Exercises.genruntimeconfig.cache
